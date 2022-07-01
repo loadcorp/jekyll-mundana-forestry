@@ -51,3 +51,5 @@ defaults:
 
 # Paginate
 paginate: 10
+
+theme: jekyll-theme-slate
